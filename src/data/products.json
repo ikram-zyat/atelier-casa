@@ -37,7 +37,9 @@
     "materiaux": "Noyer massif",
     "dimensions": "Ø 80 × H 32 cm",
     "vedette": true,
-    "images": []
+    "images": [
+      "/images/products/table-basse-riven/1792947047430-a1473d.jpg"
+    ]
   },
   {
     "id": "canape-dune",
@@ -49,7 +51,9 @@
     "materiaux": "Bois de hêtre, tissu bouclé",
     "dimensions": "L 220 × P 95 × H 72 cm",
     "vedette": false,
-    "images": []
+    "images": [
+      "/images/products/canape-dune/1792947063982-2075fe.jpg"
+    ]
   },
   {
     "id": "chaise-noor",
