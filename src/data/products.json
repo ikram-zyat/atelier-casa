@@ -65,7 +65,9 @@
     "materiaux": "Frêne, cannage naturel",
     "dimensions": "L 46 × P 52 × H 80 cm",
     "vedette": false,
-    "images": []
+    "images": [
+      "/images/products/chaise-noor/1792947113994-df85e4.jpg"
+    ]
   },
   {
     "id": "commode-atlas",
@@ -77,6 +79,8 @@
     "materiaux": "Chêne, poignées en laiton",
     "dimensions": "L 120 × P 45 × H 80 cm",
     "vedette": false,
-    "images": []
+    "images": [
+      "/images/products/commode-atlas/1792947167556-612e2a.jpg"
+    ]
   }
 ]
